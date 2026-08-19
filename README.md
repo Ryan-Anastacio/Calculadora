@@ -17,15 +17,5 @@ Uma calculadora simples desenvolvida em **Python** para praticar estruturas cond
 - 🚫 Tratamento de divisão por zero
 - 🔁 Execução contínua até o usuário sair
 
-📸 Demonstração
 
-<p align="center">
-  <img src="gif/demo.gif" width="650">
-</p>
-
----
-
-## 🚀 Tecnologias
-
-- Python 3
-- Terminal (CMD, PowerShell ou Bash)
+<img src="[https://media.tenor.com/2yzvgWyZK7kAAAAi/anfimation-pixel-art.gi](https://tenor.com/pt-BR/view/shiny-gengar-ig-gif-9566807217432504006)" width="200" />
