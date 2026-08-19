@@ -1,0 +1,3 @@
+Comando para Utilizar a Calculadora 3 mil:
+
+./calculadora_3mil.py
