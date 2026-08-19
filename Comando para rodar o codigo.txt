@@ -1,3 +1,11 @@
 Comando para Utilizar a Calculadora 3 mil:
 
+1 - Vá Até a pasta do arquivo pelo terminal usando o comando: CD
+
+2- Conceda Permissão para o projeto
+chmod +x calculadora_3mil.py
+Ou 
+chmod 744 calculadora_3mil.py
+
+3 -rode utilizando:
 ./calculadora_3mil.py

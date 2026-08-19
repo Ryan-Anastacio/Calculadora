@@ -1,6 +1,6 @@
 Explicação do Meu Código:
 
-programa foi desenvolvido em Python e funciona como uma calculadora simples. No início, o usuário informa seu nome e recebe uma mensagem de boas-vindas. Em seguida, o programa entra em um laço de repetição (while True), permitindo realizar vários cálculos sem precisar reiniciar.
+programa foi desenvolvido em Python e funciona como uma calculadora simples. O usuário informa seu nome e recebe uma mensagem de boas-vindas. Em seguida, o programa entra em um laço de repetição (while True), permitindo realizar vários cálculos sem precisar reiniciar.
 
 O usuário digita dois números inteiros, e o programa calcula automaticamente as quatro operações básicas: soma, subtração, multiplicação e divisão. Antes de realizar a divisão, há uma verificação para evitar o erro de divisão por zero, exibindo uma mensagem caso isso aconteça.
 
